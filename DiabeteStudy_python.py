@@ -9,7 +9,7 @@ Autori:
 Link repository: https://github.com/DLC-Adventure/DiabeteStudy
 
 Questo programma consiste in un sistema di classificazione che, sulla base di misurazioni diagnostiche,
-prevede se un paziente avrà il diabete.
+prevede se un paziente ha il diabete.
 
 In particolare, si occupa di:
 - Classificare secondo vari algoritmi e valutarne le prestazioni.
